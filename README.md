@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img width="400" src="./assets/logo.png" alt="logo of dagger repository">
+  <img width="300" src="./assets/logo.png" alt="logo of dagger repository">
   <br>
   <br>
 </p>
